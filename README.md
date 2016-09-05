@@ -1,6 +1,5 @@
 # hello-world
 
-<font face="arial" size="20" color="blue">
-The hello world project </font>
+The hello world project 
 <br>
 Hello Word project 
