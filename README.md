@@ -1,5 +1,6 @@
 # hello-world
 
-the hello world project
+bg color = blue
+The hello world project
 <br>
 Hello Word project 
